@@ -21,7 +21,7 @@
     "uuid": "^8.2.0"
   },
   "engines": {
-    "node":"17.k",
-    "openssl": "1.1.1k"
+    "node":"18.15.0",
+    "openssl": "3.1.0"
   }
 }
